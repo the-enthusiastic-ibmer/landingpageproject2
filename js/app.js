@@ -60,18 +60,17 @@
 // Set sections as active
 var ulElement = document.querySelectorAll('ul');
 var pElement = document.createElement('p');
-//pElement.innerHTML = "This is a test paragraph";
-//document.getElementById('myDiv').appendChild(pElement);
-//var ulItems = ul.getElementsByTagName('li');
-//var arrayItems = ["Home", "News", "About"];
 
+/* Create an array for the unordered list which will 
+/  become the Nav Bar
+*/
 const navItems = ['Section1','Section2', 'Section3'];
 var navUl = document.getElementById('navbar__list');
 
 /* This function is called to create list items
-/ The argument passed to it is from the navUl Array
-/ The first character is stripped, changed to lower case
-/ to create the anchor tag in the list item.
+/  The argument passed to it is from the navUl Array
+/  The first character is stripped, changed to lower case
+/  to create the anchor tag in the list item.
 */
 function createUlItem(liName){
   // Create a 'li' Element
