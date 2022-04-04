@@ -1,10 +1,12 @@
 
-# Udacity 1-10 landingpageproject (final project)
+# Udacity 1-10 landingpageproject
 
-## Requirements:
+### This is one of my Udactiy One-10 Nanadegree projects (final).  
 
-#### Architecture: 
->The project should have a structure like the one shown below. All files shown must be present and the app must successfully render a home page with clear design and functionality added when index.html is loaded in the browser. No errors should display in console.
+## Project Specifics/Requirements:
+
+### Architecture: 
+> The project should have a structure like the one shown below. All files shown must be present and the app must successfully render a home page with clear design and functionality added when index.html is loaded in the browser. No errors should display in console.
 
 
 > ###### /css
